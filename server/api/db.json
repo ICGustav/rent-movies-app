@@ -29,6 +29,13 @@
       "lastTimeBorrowed": "Wed Feb 17 2016",
       "lastTimeRefunded": "Wed Feb 17 2016",
       "alreadyBorrowed": false
+    },
+    {
+      "name": "Movie 4",
+      "duration": 100,
+      "description": "short version",
+      "id": 4,
+      "createDate": "1993-06-16"
     }
   ]
 }

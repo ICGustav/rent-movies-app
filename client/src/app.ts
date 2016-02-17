@@ -81,7 +81,7 @@ class MovieList {
           <div class="mdl-textfield mdl-js-textfield">
             <label>Movie last time borrowed</label>
             <input [(ngModel)]="selectedMovie.lastTimeBorrowed"
-              placeholder="Last time borrowed"
+              placeholder="Was not borrowed yet!"
               class="mdl-textfield__input" type="text"
               readonly="true">
           </div>
@@ -89,7 +89,7 @@ class MovieList {
           <div class="mdl-textfield mdl-js-textfield">
             <label>Movie last time refunded</label>
             <input [(ngModel)]="selectedMovie.lastTimeRefunded"
-              placeholder="Last time refunded"
+              placeholder="Was not refunded yet!"
               class="mdl-textfield__input" type="text"
               readonly="true">
           </div>

@@ -88,6 +88,7 @@ export class MoviesService {
   }
 
   createMovie(movie: Movie) {
+    // movie.createDate = new Date(movie.createDate).toDateString();
     this.http.post(`${BASE_URL}`, JSON.stringify(movie), HEADER)
       .map(res => res.json())
       .map(payload => ({ type: 'CREATE_MOVIE', payload }))

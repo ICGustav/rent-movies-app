@@ -1,3 +1,10 @@
+## For development download these dependent technologies
+
+* [NodeJS](https://nodejs.org)
+* [Git version](https://git-scm.com/downloads)
+ 
+After success please continue by steps in *Getting Started section* 
+ 
 ## Reactive RESTful Angular 2 application with ngrx store
 
 A RESTful master-detail application built using Angular 2 and [ngrx store](https://github.com/ngrx/store).
