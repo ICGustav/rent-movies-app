@@ -1,19 +1,34 @@
 {
-  "items": [
+  "movies": [
     {
       "id": 1,
-      "name": "Item 1",
-      "description": "This is a description"
+      "name": "Movie 1",
+      "createDate": "2016-02-02",
+      "duration": 140,
+      "description": "short version",
+      "lastTimeBorrowed": "Wed Feb 17 2016",
+      "lastTimeRefunded": "Wed Feb 17 2016",
+      "alreadyBorrowed": false
     },
     {
       "id": 2,
-      "name": "Item 2",
-      "description": "This is a description"
+      "name": "Movie 2",
+      "createDate": "2009-02-02",
+      "duration": 140,
+      "description": "short version",
+      "lastTimeBorrowed": "Wed Feb 17 2016",
+      "lastTimeRefunded": "Wed Feb 17 2016",
+      "alreadyBorrowed": false
     },
     {
       "id": 3,
-      "name": "Item 3",
-      "description": "This is a lovely item"
+      "name": "Movie 3",
+      "createDate": "2001-11-06",
+      "duration": 140,
+      "description": "short version",
+      "lastTimeBorrowed": "Wed Feb 17 2016",
+      "lastTimeRefunded": "Wed Feb 17 2016",
+      "alreadyBorrowed": false
     }
   ]
 }

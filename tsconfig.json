@@ -19,9 +19,10 @@
   },
   "files": [
     "client/bootstrap.ts",
+    "client/src/utils/date.ts",
     "client/src/app.ts",
-    "client/src/items.spec.ts",
-    "client/src/items.ts",
+    "client/src/movies.spec.ts",
+    "client/src/movies.ts",
     "client/vendor.ts"
   ]
 }
