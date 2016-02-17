@@ -9,8 +9,8 @@ There are two main parts to this application. The first is the server which we a
 To get started run the commands below.
 
 ```
-$ git clone https://github.com/simpulton/ngrx-rest-app.git
-$ cd ngrx-rest-app
+$ git clone https://github.com/ICGustav/rent-movies-app.git
+$ cd rent-movies-app
 $ npm install
 $ npm start
 ```
